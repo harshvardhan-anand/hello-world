@@ -1,1 +1,1 @@
-Test file in new master
+Test file in new b6

@@ -1,2 +1,1 @@
-Test 1 in branch 5
-Test 1 in branch 4
+Test file in new master
